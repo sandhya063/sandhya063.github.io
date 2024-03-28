@@ -1,38 +1,13 @@
-# sandhya063.github.io
-# 👋 GitHub Repository 👨‍💻
+# Responsive_Portfolio_Project
+My first portfolio website project . Developed with html css and a little js was used
 
-Welcome to my GitHub space! Here's where the code magic happens! ✨
+## Online Demo
 
-## 🚀 About Me
+https://responsive-portfolio-1.netlify.app/
 
-I'm Sandhya Aryal, a passionate coder and explorer based in Sydney. I breathe 💻 code and dream in algorithms. Outside the terminal, I love 🎸 playing guitar and ☕ sipping on a cup of coffee.
+## ScreenShoots
+<img src="https://user-images.githubusercontent.com/70813725/156333134-d0d1ed25-c48b-47e5-9427-1220416a68ba.png" width="600px"> 
 
-## 🌟 Projects
+## Main Design
 
-Explore the galaxies of my current projects:
-
-1. **🚀 Personal Portfolio**
-   - Description: Briefly describe the purpose and goals of the project.
-   - Technologies: List the technologies, languages, and frameworks used.
-   - [Link to Project 1]
-
-2. **🌈 Netflix**
-   - Description: Briefly describe the purpose and goals of the project.
-   - Technologies: List the technologies, languages, and frameworks used.
-   - [Link to Project 2]
-
-Feel free to open issues, contribute, and star ⭐ the repos if you find them intriguing!
-
-## 📬 Contact
-
-- 📧 Email: info@skilluplabs.com.au
-- 🐦 Twitter: @skilluplabs
-- 🔗 LinkedIn: linkedlin.com/skilluplabs
-
-Let's connect and sprinkle some emoji dust on our collaboration! 🌐💬
-
-## ☕ Support
-
-If my projects light up your code journey, consider fueling my caffeine addiction! ☕️
-
-Thanks for dropping by my cosmic coding universe! 🚀✨
+https://www.figma.com/file/zqKAFfSruLAletFeO3eMDZ/Portfolio-UI---Web-%26-Mobile-(Community)?node-id=0%3A1
